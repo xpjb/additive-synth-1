@@ -1,6 +1,3 @@
-#![feature(drain_filter)]
-
-
 /* This example expose parameter to pass generator of sample.
 Good starting point for integration of cpal into your application.
 */
